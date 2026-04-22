@@ -141,3 +141,6 @@ app = QApplication(sys.argv)
 w = Player()
 w.show()
 sys.exit(app.exec_())
+
+print ("¡Gracias por usar SEVEN.FM!")
+print ("¡Hasta la próxima!")
